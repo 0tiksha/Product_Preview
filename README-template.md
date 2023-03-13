@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](C:\Users\Lenovo\Pictures\Screenshots\Screenshot (762).png)
+![](Solution_design\Desktop_design.png)
 
 ### Links
 
