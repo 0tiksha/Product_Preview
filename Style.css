@@ -1,0 +1,117 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+@font-face {
+  font-family: "Fraunces";
+  src: url(https://fonts.google.com/specimen/Fraunces);
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url(https://fonts.google.com/specimen/Montserrat);
+}
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+footer {
+  position: absolute;
+  bottom: 0px;
+}
+.price_flex {
+  display: flex;
+  justify-self: start;
+  align-items: center;
+}
+.flex-item1 {
+  color: hsl(158, 36%, 37%);
+  font-size: 28px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+}
+.flex-item2 {
+  color: gray;
+  padding-left: 15px;
+  font-size: 10px;
+}
+.paragraph {
+  font-family: "Fraunces", sans-serif;
+  color: gray;
+  font-weight: 500;
+  font-size: 14px;
+}
+.flex-container {
+  /* flex-wrap:; */
+  display: flex;
+  width: 500px;
+  height: 375px;
+  margin: auto;
+  margin-top: 10%;
+}
+
+.content {
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 0 10px 10px 0;
+}
+.imgg {
+  width: 50%;
+  height: auto;
+  object-fit: fill;
+  border-radius: 10px 0 0 10px;
+}
+
+.button {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(158, 36%, 37%);
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  border-radius: 10px;
+  padding-bottom: 2%;
+  color: hsl(0, 0%, 100%);
+  font-style: "Montserrat", sans-serif;
+}
+.button:hover {
+  cursor: grab;
+  background-color: hsl(212, 21%, 14%);
+}
+.button:focus {
+  background-color: hsl(212, 21%, 14%);
+}
+#cart {
+  padding: 2%;
+  margin-top: 3%;
+}
+#span {
+  padding: 2%;
+  margin-top: 3%;
+  font-family: "Montserrat";
+  font-size: 10px;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
+}
+
+.perfume {
+  font-family: "Montserrat", sans-serif;
+  color: grey;
+  margin-top: 20px;
+  font-size: 14px;
+  letter-spacing: 3px;
+}
+.heading {
+  margin-top: 0%;
+  padding-top: 0%;
+  line-height: 1.7rem;
+  font-family: "Fraunces";
+  font-weight: 700;
+}
+.Price {
+  font-family: "Montserrat";
+}
