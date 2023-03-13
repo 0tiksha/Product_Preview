@@ -87,4 +87,4 @@ I am totally a newbie in writing code. My code is improved but still not so clea
 
 ## Acknowledgments
 
-https://github.com/tejasveedighe helped me finishing this project.
+- [..] (https://github.com/tejasveedighe) helped me finishing this project.
